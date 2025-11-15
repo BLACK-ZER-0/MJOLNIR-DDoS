@@ -44,7 +44,7 @@ pip install requests rich pyfiglet
 ## ⏱️ Usage
 
 ```bash
-git clone https://github.com/ADIRTTA/MJOLNIR-DDoS.git
+git clone https://github.com/BLACK-ZER-0/MJOLNIR-DDoS.git
 cd MJOLNIR-DDoS
 chmod +x *
 pip install -r requirements.txt
@@ -54,7 +54,7 @@ python3 MJOLNIR.py
 ## 🧪 Shortcut install
 
 ```bash
-wget https://raw.githubusercontent.com/ADIRTTA/MJOLNIR-DDoS/main/MJOLNIR.sh
+wget https://raw.githubusercontent.com/BLACK-ZER-0/MJOLNIR-DDoS/main/MJOLNIR.sh
 chmod +x MJOLNIR.sh
 bash MJOLNIR.sh
 ```
@@ -103,7 +103,7 @@ Place a `config.json` file in the same directory with proxy sources:
 
 * 👨‍💻 Author: **SHONCHOYON BARUA ADIRTTA**
 * 🌐 GitHub: [github.com/ADIRTTA](https://github.com/ADIRTTA)
-* 📂 Repo: [MJOLNIR-DDoS](https://github.com/ADIRTTA/MJOLNIR-DDoS.git)
+* 📂 Repo: [MJOLNIR-DDoS](https://github.com/BLACK-ZER-0/MJOLNIR-DDoS.git)
 
 ---
 
