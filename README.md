@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://i.postimg.cc/Hxw51Y3Z/thor.png" alt="Mjolnir Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/BLACK-ZER-0/MJOLNIR-DDoS/main/Pic/MJOLNIR.jpeg" alt="Mjolnir Logo" width="200"/>
 </p>
 
 <h1 align="center">⚡ MJOLNIR DDoS TOOL ⚡</h1>
