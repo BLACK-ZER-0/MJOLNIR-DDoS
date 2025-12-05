@@ -103,8 +103,8 @@ Place a `config.json` file in the same directory with proxy sources:
 
 ## 👤 Developer Info
 
-* 👨‍💻 Author: **SHONCHOYON BARUA ADIRTTA**
-* 🌐 GitHub: [github.com/ADIRTTA](https://github.com/ADIRTTA)
+* 👨‍💻 Author: **BLACK ZERO**
+* 🌐 GitHub: [github.com/BLACK_ZERO](https://github.com/BLACK-ZER-0)
 * 📂 Repo: [MJOLNIR-DDoS](https://github.com/BLACK-ZER-0/MJOLNIR-DDoS.git)
 
 ---
