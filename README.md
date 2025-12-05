@@ -10,6 +10,7 @@
 <h1 align="center">⚡ MJOLNIR DDoS TOOL ⚡</h1>
 <p align="center"><strong>Developer: BLACK ZERO</strong></p>
 <p align="center">🔥 One of the Most Powerful Beast DDoS Tools - For Ethical Use Only 🔥</p>
+<p align="center"><b>⚡ Let the hammer fall only on injustice. ⚡</b></p>
 
 ---
 
@@ -109,9 +110,7 @@ Place a `config.json` file in the same directory with proxy sources:
 
 ---
 
-<p align="center">⚡ Let the hammer fall only on injustice. ⚡</p>
-```
 
----
+
 
 
