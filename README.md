@@ -24,6 +24,7 @@
 - 🧠 Smart target input system (IP or URL based, with port option)
 - 📊 Real-time status monitor with `Rich`
 - 💥 Shows if target is down
+- ⛓️ Auto Random IP Spoofing (ipv4)
 
 ---
 
@@ -46,8 +47,9 @@ pip install requests rich pyfiglet
 ```bash
 git clone https://github.com/BLACK-ZER-0/MJOLNIR-DDoS.git
 cd MJOLNIR-DDoS
+chmod 777 *
 chmod +x *
-pip install -r requirements.txt
+pip install -r mjolnir.txt
 python3 MJOLNIR.py
 ```
 ---
